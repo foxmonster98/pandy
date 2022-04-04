@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5a8D6981752DfFB857A4fE6eD9b40e61698e4fC3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5a8D6981752DfFB857A4fE6eD9b40e61698e4fC3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "8 Bit Pandas",
+  "SYMBOL": "8BPnft",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/8bit-pixel-pandas",
+  "SHOW_BACKGROUND": true
+}
